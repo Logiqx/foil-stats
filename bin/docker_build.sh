@@ -9,7 +9,7 @@ IMAGE_TAG=$(git rev-parse --short=12 HEAD)
 DOCKER_BUILDKIT=1 docker build . --build-arg LOGIQX_DEBUG -t $IMAGE_NAME:$IMAGE_TAG
 
 # Run unit tests
-run_py_script core/foil_stats.py
+run_py_script foil_stats.py
 
 # Docker Tag
 docker tag $IMAGE_NAME:$IMAGE_TAG $IMAGE_NAME:latest

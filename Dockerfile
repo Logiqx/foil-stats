@@ -11,7 +11,7 @@ WORKDIR /home/jovyan/work/foil-stats
 COPY --chown=jovyan:users python/*.*py* ./python/
 
 # Convert Jupyter notebooks to regular Python scripts
-RUN jupyter nbconvert --to python python/*.ipynb
+RUN jupyter nbconvert --to python python/*.ipynb && \
     rm python/*.ipynb
 
 # Ensure project file permissions are correct
