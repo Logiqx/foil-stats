@@ -1,0 +1,312 @@
+{
+  "Boss": {
+    "5.0 Racefoil (Slalom)": {
+      "Front": {
+        "1000": {
+          "Span": 1000,
+          "Area": 930
+        },
+        "910": {
+          "Span": 910,
+          "Area": 772
+        },
+        "800": {
+          "Span": 800,
+          "Area": 594
+        },
+        "700": {
+          "Span": 700,
+          "Area": 461
+        },
+        "620": {
+          "Span": 620,
+          "Area": 357
+        }
+      },
+      "Rear": {
+        "350": {
+          "Span": 350,
+          "Comment": "TBC - Area"
+        },
+        "390": {
+          "Span": 390,
+          "Comment": "TBC - Area"
+        },
+        "440": {
+          "Span": 440,
+          "Comment": "TBC - Area"
+        }
+      }
+    }
+  },
+  "F4 Foils": {
+    "Slalom / Speed": {
+      "Front": {
+        "900": {
+          "Span": 900,
+          "Area": 720
+        },
+        "800": {
+          "Span": 800,
+          "Area": 620
+        },
+        "700": {
+          "Span": 700,
+          "Area": 560
+        },
+        "640": {
+          "Span": 640,
+          "Area": 420
+        },
+        "Speed": {
+          "Span": 560,
+          "Area": 337
+        }
+      },
+      "Rear": {
+        "R42-210": {
+          "Span": 420,
+          "Area": 210
+        },
+        "R44-200": {
+          "Span": 440,
+          "Area": 200
+        },
+        "R38-190": {
+          "Span": 380,
+          "Area": 190
+        }
+      }
+    }
+  },
+  "Neil Pryde": {
+    "SLR": {
+      "Front": {
+        "70": {
+          "Span": 700,
+          "Area": 515
+        },
+        "80": {
+          "Span": 800,
+          "Area": 670
+        },
+        "90": {
+          "Span": 900,
+          "Area": 850
+        }
+      },
+      "Rear": {
+        "38": {
+          "Span": 380,
+          "Area": 175
+        },
+        "40": {
+          "Span": 400,
+          "Area": 194
+        }
+      }
+    }
+  },
+  "Phantom": {
+    "2021-2023": {
+      "Front": {
+        "950": {
+          "Span": 990,
+          "Area": 950,
+          "Comment": "Measured by AS + MG"
+        },
+        "800": {
+          "Span": 930,
+          "Area": 800,
+          "Comment": "Measured by AS"
+        },
+        "730": {
+          "Span": 895,
+          "Area": 730,
+          "Comment": "Measured by GC"
+        },
+        "550": {
+          "Span": 730,
+          "Area": 550,
+          "Comment": "Measured by GC"
+        },
+        "430": {
+          "Area": 430,
+          "Comment": "TBC - Span"
+        },
+        "350 Mk2": {
+          "Span": 540,
+          "Area": 350,
+          "Comment": "Measured by GC"
+        }
+      },
+      "Rear": {
+        "250 Mk2": {
+          "Area": 250,
+          "Comment": "TBC - Span"
+        },
+        "200": {
+          "Area": 200,
+          "Comment": "TBC - Span"
+        },
+        "175": {
+          "Area": 175,
+          "Comment": "TBC - Span"
+        }
+      }
+    }
+  },
+  "Starboard": {
+    "Race": {
+      "Front": {
+        "900": {
+          "Span": 900,
+          "Area": 900,
+          "Comment": "Measured by MG"
+        },
+        "800": {
+          "Span": 800,
+          "Area": 800,
+          "Comment": "Measured by MG"
+        },
+        "725": {
+          "Area": 725,
+          "Comment": "TBC - Span"
+        },
+        "650": {
+          "Span": 690,
+          "Area": 650,
+          "Comment": "Measured by MG"
+        },
+        "550": {
+          "Span": 620,
+          "Area": 550,
+          "Comment": "Measured by RB"
+        }
+      },
+      "Rear": {
+        "255": {
+          "Area": 255,
+          "Comment": "TBC - Span"
+        },
+        "255 -2 degrees": {
+          "Area": 255,
+          "Comment": "TBC - Span"
+        },
+        "255 -2 degrees Thin": {
+          "Area": 255,
+          "Comment": "TBC - Span"
+        },
+        "200 -2 degrees Thin": {
+          "Area": 200,
+          "Comment": "TBC - Span"
+        }
+      }
+    },
+    "Evolution": {
+      "Front": {
+        "900": {
+          "Area": 900,
+          "Comment": "TBC - Span"
+        },
+        "800": {
+          "Area": 800,
+          "Comment": "TBC - Span"
+        },
+        "725": {
+          "Area": 725,
+          "Comment": "Same as 2021"
+        },
+        "650": {
+          "Span": 690,
+          "Area": 650,
+          "Comment": "Same as 2021"
+        },
+        "575": {
+          "Area": 575,
+          "Comment": "TBC - Span"
+        }
+      },
+      "Rear": {
+        "255": {
+          "Area": 255,
+          "Comment": "TBC - Span"
+        },
+        "255 -2 degrees": {
+          "Area": 255,
+          "Comment": "TBC - Span"
+        },
+        "255 -2 degrees Thin": {
+          "Area": 255,
+          "Comment": "TBC - Span"
+        },
+        "200 -2 degrees Thin": {
+          "Area": 200,
+          "Comment": "TBC - Span"
+        }
+      }
+    },
+    "SLR": {
+      "Front": {
+        "560": {
+          "Area": 560,
+          "Comment": "TBC - Span"
+        },
+        "460": {
+          "Area": 460,
+          "Comment": "TBC - Span"
+        },
+        "390": {
+          "Area": 390,
+          "Comment": "TBC - Span"
+        }
+      },
+      "Rear": {
+        "210": {
+          "Area": 210,
+          "Comment": "TBC - Span"
+        },
+        "175": {
+          "Area": 175,
+          "Comment": "TBC - Span"
+        }
+      }
+    }
+  },
+  "Z Fins": {
+    "Z PWA Windfoil": {
+      "Front": {
+        "850": {
+          "Span": 850,
+          "Area": 810
+        },
+        "820": {
+          "Span": 820,
+          "Area": 640
+        },
+        "680": {
+          "Span": 680,
+          "Area": 530
+        },
+        "590": {
+          "Span": 590,
+          "Area": 390
+        }
+      },
+      "Rear": {
+        "390": {
+          "Span": 390,
+          "Comment": "TBC - Area"
+        },
+        "370": {
+          "Span": 370,
+          "Comment": "TBC - Area"
+        },
+        "350": {
+          "Span": 350,
+          "Comment": "TBC - Area"
+        }
+      }
+    }
+  }
+}
