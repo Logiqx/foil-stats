@@ -6,7 +6,7 @@ run_py_script()
 {
   docker run -it --rm \
          --mount type=bind,src=$PROJ_DIR/config,dst=$WORK_DIR/config,readonly \
-         --mount type=bind,src=$PROJ_DIR/config,dst=$WORK_DIR/docs \
+         --mount type=bind,src=$PROJ_DIR/docs,dst=$WORK_DIR/docs \
          ${PROJ_NAME}:${IMAGE_TAG:-latest} python/$1
 }
 
