@@ -108,7 +108,7 @@
     }
   },
   "Phantom": {
-    "2021-2023": {
+    "Iris 2021-2023": {
       "Front": {
         "950": {
           "Span": 990,
@@ -170,8 +170,9 @@
           "Comment": "Measured by MG"
         },
         "725": {
+          "Span": 725,
           "Area": 725,
-          "Comment": "TBC - Span"
+          "Comment": "Measured by SH"
         },
         "650": {
           "Span": 690,
