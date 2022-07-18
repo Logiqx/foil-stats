@@ -8,6 +8,6 @@ ERRVAL=$?
 # Compress Images
 if [[ $ERRVAL == 0 ]]
 then
-	find docs/img -name *.png -exec optipng -o2 {} \;
+	find docs -name *.png -exec optipng -o2 {} \;
 	ERRVAL=$?
 fi
