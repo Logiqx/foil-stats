@@ -13,7 +13,7 @@ Feel free to contact me via [Facebook](https://www.facebook.com/michael.george.5
 ### Brands and Foils
 
 - Boss
-  - [5.0 Racefoil (Slalom)](Boss/5.0 Racefoil (Slalom)/README.md)
+  - [5.0 Slalom Racefoil](Boss/5.0 Slalom Racefoil/README.md)
 - F4 Foils
   - [Slalom + Speed](F4 Foils/Slalom + Speed/README.md)
 - Neil Pryde

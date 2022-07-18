@@ -1,4 +1,4 @@
-## Boss 5.0 Racefoil (Slalom)
+## Boss 5.0 Slalom Racefoil
 
 | Name | Span (mm) | Area (cm²) | Aspect Ratio |
 | ---- | :-------: | :--------: | :----------: |
